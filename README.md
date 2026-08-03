@@ -57,7 +57,7 @@ Currently leading cloud, infrastructure, and software initiatives through Alphar
 ### Modern Classic Furniture Infrastructure
 > Ongoing infrastructure administration and technical support engagement involving systems management, cloud services, networking, security controls, business applications, and operational support.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Click-brightgreen?style=for-the-badge)](https://modernfunitures.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Click-brightgreen?style=for-the-badge)](https://modernclassicfurnitures.com)
 
 ###  AlphardHire
 > Enterprise recruitment and talent management platform featuring applicant tracking, candidate pipelines, interview workflows, role-based access control, analytics, and operational automation.
