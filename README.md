@@ -1,169 +1,350 @@
-<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Davis%20Wabwile&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=fff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7C3AED&height=190&section=header&text=Davis%20Wabwile&fontSize=46&fontAlignY=36&animation=fadeIn&fontColor=ffffff" alt="Davis Wabwile" />
 </p>
 
-<p align="center"><b>Cloud & DevOps Engineer | Technical Support L2/L3 | AWS • Azure • Kubernetes • Terraform • Docker • Automation | Founder @ Alphard IT Solutions </b></p>
+<h2 align="center">Cloud & Platform Engineer</h2>
 
----
-
-## About Me
-
-
-<p align="left">
-  <a href="https://github.com/Alphadavethedon">
-    <img src="https://komarev.com/ghpvc/?username=Alphadavethedon&label=Views&color=1e90ff&style=flat-square&labelColor=0d1117" alt=" Profile Views" height="24">
-  </a>
-</p>
-
-Results-driven Cloud & DevOps Engineer with 8+ years of experience delivering cloud infrastructure, technical support, systems administration, automation, and enterprise technology solutions.
-
-Experienced in designing, deploying, supporting, and optimizing production environments across cloud platforms, SaaS applications, networking, monitoring, security, and business systems. Proven track record supporting end users, maintaining critical infrastructure, automating operational processes, and improving service reliability.
-
-Currently leading cloud, infrastructure, and software initiatives through Alphard IT Solutions while building scalable platforms and automation solutions that improve operational efficiency and business outcomes.
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="220" alt="Coding animation placeholder" />
-</div>
-
----
-
-## 💻 Tech Stack
-
-| **Category** | **Tools & Technologies** |
-|--------------|--------------------------|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=fff) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=fff) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff) ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=fff) ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff) ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=fff) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) ![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=fff) ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=fff) ![REST API](https://img.shields.io/badge/-REST-02569B?logo=swagger&logoColor=fff) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=fff) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=fff) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=ff9900) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=fff) ![CI/CD](https://img.shields.io/badge/-CI/CD-000?logo=gitlab&logoColor=fff) ![Render](https://img.shields.io/badge/-Render-000?logo=render&logoColor=fff) ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff) |
-| **Data & AI** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=fff) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=fff) |
-| **Security** | ![JWT](https://img.shields.io/badge/-JWT-000?logo=jsonwebtokens&logoColor=fff) ![OAuth 2.0](https://img.shields.io/badge/-OAuth2-3E8EDE?logo=openid&logoColor=fff) ![RBAC](https://img.shields.io/badge/-RBAC-4B5563?logoColor=fff) ![Encryption](https://img.shields.io/badge/-Encryption-4B5563?logo=letsencrypt&logoColor=fff) ![Zero Trust](https://img.shields.io/badge/-Zero%20Trust-FF0000?logoColor=fff) |
-| **Networking** | ![SIP](https://img.shields.io/badge/-SIP-00A4EF?logoColor=fff) ![VoIP](https://img.shields.io/badge/-VoIP-1E90FF?logoColor=fff) ![Asterisk PBX](https://img.shields.io/badge/-Asterisk%20PBX-F68A1E?logo=asterisk&logoColor=fff) ![FreePBX](https://img.shields.io/badge/-FreePBX-009688?logoColor=fff) ![Twilio](https://img.shields.io/badge/-Twilio-F22F46?logo=twilio&logoColor=fff) |
-| **Monitoring** | ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=fff) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=fff) ![Zabbix](https://img.shields.io/badge/-Zabbix-CC0000?logo=zabbix&logoColor=fff) ![Atera](https://img.shields.io/badge/-Atera-00ADEF?logoColor=fff) ![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-005571?logo=elasticstack&logoColor=fff) ![Winston](https://img.shields.io/badge/-Winston%20Logger-000?logo=nodedotjs&logoColor=fff) |
-| **Collaboration** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=fff) ![Agile](https://img.shields.io/badge/-Agile-009688?logo=scrumalliance&logoColor=fff) ![Scrum](https://img.shields.io/badge/-Scrum-7952B3?logoColor=fff) |
-
-
----
-
-## Featured Projects
-### 🛡 WorkGuard360 – Workplace Compliance & Security
-> MERN-based compliance & biometric monitoring with real-time logs, violation detection, dashboards, and alerts.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Click-brightgreen?style=for-the-badge)](https://workguard360.vercel.app)
-[![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/Workguard360)
-
-### Modern Classic Furniture Infrastructure
-> Ongoing infrastructure administration and technical support engagement involving systems management, cloud services, networking, security controls, business applications, and operational support.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Click-brightgreen?style=for-the-badge)](https://modernclassicfurnitures.com)
-
-###  AlphardHire
-> Enterprise recruitment and talent management platform featuring applicant tracking, candidate pipelines, interview workflows, role-based access control, analytics, and operational automation.
-
-**Tech Stack:** Next.js • Supabase • PostgreSQL • TypeScript • Vercel
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Click-brightgreen?style=for-the-badge)](file:///home/don-dave/Downloads/alphardops-showcase.html)  
-[![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/AlphardHire-Ops)
-
-###  🏢 Alphard IT Solutions
-> Cloud consulting, infrastructure management, technical support, managed services, and automation solutions for growing businesses.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Click-brightgreen?style=for-the-badge)](https://alphardit.com)  
-[![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/Alphard-IT-Solutions-LTD)
-
-###  ⚡ Betting Architecture in Go
-> Distributed systems architecture demonstrating event-driven design, concurrency patterns, service communication, fault tolerance, and scalable backend engineering.
-
-**Tech Stack:** Go • Microservices • Distributed Systems
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Click-brightgreen?style=for-the-badge)](https://github.com/Alphadavethedon/Betting-architecture-in-go)  
-[![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/Betting-architecture-in-go)
-
-###  Kenya AI Clinical Reasoning Challenge
-> Healthcare AI clinical reasoning.  
-[![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/kenya-clinical-reasoning-challenge)
-[![Colab](https://img.shields.io/badge/Open_in-Colab-F9AB00?logo=google-colab)](https://colab.research.google.com/drive/1w4WfgLFlHjdQCGI5he4jTTUKGwG-Dh_e) [![Zindi](https://img.shields.io/badge/Zindi-Certificate-8A2BE2)](https://zindi.africa/users/DonDave/competitions/certificate)
-
-###  Support Operations Automation Platform
-> Workflow automation platform designed to streamline support operations, ticket handling, incident routing, escalation workflows, and operational processes.
-
-**Tech Stack:** n8n, APIs, Workflow Automation
-
-[![Interactive Showcase](https://img.shields.io/badge/Interactive_Showcase-Open-111827?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/10ZH7fg0qWjgttXcu8znCmiehhEPaxXGU/view)
-
-[![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/ai-l2-l3-support-engineer-agent-n8n)  
-
-### ☁️ Cloud Operations Reporting Platform
-> Automated operational reporting system that consolidates infrastructure data, monitoring insights, and operational metrics into executive-ready reports.
-
-[![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/AI-Powered-CloudOps-Daily-Report-Generator)  
-
-###  Cloud Automation Toolkit
-**DevOps scripts & CI/CD templates** for rapid cloud deployments.  
-**Tech:** AWS CLI, Terraform, Docker, GitHub Actions, PowerShell  
-
----
-
-## GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alphadavethedon&show_icons=true&theme=transparent&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Alphadavethedon&theme=transparent&hide_border=true" height="150"/>
+  <strong>Systems • Cloud • DevOps • Automation • Software Engineering • Technical Operations</strong>
 </p>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alphadavethedon&theme=radical&no-frame=true&row=1&column=6" />
+  I build, troubleshoot, automate and evolve systems from application code to infrastructure and production operations.
 </p>
 
+<p align="center">
+  <a href="https://github.com/Alphadavethedon"><img src="https://img.shields.io/badge/GitHub-Alphadavethedon-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/davis-wabwile-53238221a/"><img src="https://img.shields.io/badge/LinkedIn-Davis%20Wabwile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://alphardit.com"><img src="https://img.shields.io/badge/Alphard%20IT-alphardit.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Alphard IT"/></a>
+  <a href="mailto:davisswabwile@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-## Engineering Focus
+---
+
+## 👋 Engineering Profile
+
+I'm **Davis Wabwile**, a Cloud & Platform Engineer with **8+ years of experience** across technical support, systems engineering, cloud operations, DevOps, automation and application engineering.
+
+My background sits deliberately between **building systems and operating systems**. I have worked close to users, incidents and business applications, while also engineering the infrastructure, automation, APIs, databases, CI/CD pipelines and cloud environments underneath them.
+
+I focus on systems that are:
+
+- **Reliable** — failures are anticipated and recoverable.
+- **Secure** — access, data and boundaries are designed deliberately.
+- **Observable** — important system behavior can be understood.
+- **Repeatable** — deployment and operations are automated where possible.
+- **Maintainable** — architecture and decisions are documented.
+- **Honest** — implemented, verified, planned and blocked work are clearly distinguished.
+
+---
+
+## 🧠 How I Engineer
 
 ```text
-Cloud Infrastructure        ████████████████████ 95%
-Technical Support L2/L3     ████████████████████ 95%
-Linux Administration        ███████████████████  90%
-Systems Engineering         ███████████████████  90%
-Infrastructure Automation   ███████████████████  90%
-Cloud Operations            ██████████████████   88%
-Networking & Security       ██████████████████   88%
-Kubernetes                  █████████████████    85%
-Terraform                   ████████████████     80%
-Go Development              ███████████████      75%
+Problem
+  ↓
+Evidence
+  ↓
+Root Cause
+  ↓
+Architecture / Design
+  ↓
+Implementation
+  ↓
+Automated Checks
+  ↓
+Build / Deploy
+  ↓
+Observe
+  ↓
+Verify
+  ↓
+Improve
 ```
 
----
-
-## Articles
-- [Modern Back-End Systems](https://medium.com/@davewabwile/mastering-modern-backend-systems-a-practical-guide-to-apis-architecture-and-scalability-02f6501f7792)  
-- [Zero Trust Architectures for Kubernetes](https://medium.com/@davewabwile)  
-- [MLOps at Scale with Kubeflow 2.0](https://medium.com/@davewabwile)  
+I prefer **evidence over assumptions**. When something breaks, I reproduce it, inspect the system, trace the failure, identify the root cause, make the smallest correct change, verify the result and document what changed.
 
 ---
 
-## 🤝 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/davis-wabwile-53238221a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:davisswabwile@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://alphardit.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+# 🚀 Flagship Engineering Work
+
+## 🟣 Alphard Avanti — AI Growth Operating System
+
+**Status: Private / active engineering build**
+
+A multi-tenant marketing, content and sales platform engineered as a modular monolith.
+
+The current architecture includes tenant-aware domain modeling, campaigns, content variants, publishing concepts, CRM foundations, AI-agent tracking and a database-backed job queue.
+
+### Engineering focus
+
+- Multi-tenant data boundaries and tenant context
+- Prisma / PostgreSQL domain modeling
+- Modular application architecture
+- Idempotency for publishing operations
+- `FOR UPDATE SKIP LOCKED` job claiming
+- Exponential backoff and dead-letter handling
+- Password hashing with scrypt
+- Architecture Decision Records
+- TypeScript verification and automated tests
+
+The repository explicitly separates implemented, verified, unverified and planned capabilities.
+
+🔒 **Repository:** Private — architecture and implementation evidence available on request.
+
+---
+
+## 🟢 Modern Classic Furniture — E-Commerce Platform
+
+**Status: Private / active engineering build**
+
+A real-world e-commerce platform being engineered around product discovery, customer accounts, cart and checkout, orders, payments, administration and product operations.
+
+### Engineering focus
+
+- Next.js App Router and TypeScript
+- Product discovery and detail experiences
+- Customer authentication
+- Cart and checkout state
+- Order workflows
+- Supabase / PostgreSQL integration
+- Row Level Security considerations
+- Product media and administration
+- Mobile-first UX engineering
+- Production debugging and build verification
+
+The project has become a practical exercise in solving the boundary between **UX requirements, database constraints, authorization and business rules**.
+
+🔒 **Repository:** Private — implementation available on request.
+
+---
+
+## 🔵 Alphard IT Solutions — Engineering Platform
+
+**Status: Private / active product platform**
+
+The technology platform behind **Alphard IT Solutions Ltd**, evolving from a company website into a broader digital foundation for services, talent, commerce and future software products.
+
+### Stack
+
+Next.js • TypeScript • Tailwind CSS • shadcn/ui • Framer Motion • Zod • React Hook Form • SWR • WordPress / WooCommerce • API routes • Vercel
+
+The project is supported by architecture, design-system, content-layer and roadmap documentation.
+
+🌐 **Company:** https://alphardit.com
+
+🔒 **Repository:** Private.
+
+---
+
+# 🔬 Public Engineering Projects
+
+## 🤖 AI L2/L3 Support Engineer — n8n
+
+AI-assisted technical support workflow automation exploring ticket context, AI reasoning, workflow orchestration and operational actions.
+
+**Focus:** AI • n8n • Support Automation • APIs • Workflow Engineering
+
+→ https://github.com/Alphadavethedon/ai-l2-l3-support-engineer-agent-n8n
+
+## 📡 Real-Time Mobile Money Fraud Detection Pipeline
+
+A streaming-data project focused on real-time mobile-money transaction processing and fraud-detection concepts.
+
+**Focus:** Streaming • Data Engineering • Fraud Detection • Real-Time Systems
+
+→ https://github.com/Alphadavethedon/Mobile-Money-Fraud-Detection-Real-Time-Data-Pipeline
+
+## 💰 Cash Craft — Loan Platform
+
+Financial application work split across frontend and backend repositories.
+
+→ Frontend: https://github.com/Alphadavethedon/Cash-Craft-Frontend-Main  
+→ Backend: https://github.com/Alphadavethedon/Cash-Craft-Loans-Backend
+
+## 🧩 Task Orchestrator
+
+A focused repository exploring task orchestration and automation patterns.
+
+→ https://github.com/Alphadavethedon/task-orchestrator
+
+## 🗄️ E-Commerce Database Design
+
+Database-focused work demonstrating relational modeling for commerce systems.
+
+→ https://github.com/Alphadavethedon/E-commerce-database-design
+
+## ☸️ Kubernetes — The Hard Way
+
+Hands-on Kubernetes infrastructure learning and implementation work.
+
+→ https://github.com/Alphadavethedon/kubernetes-the-hard-way
+
+## ☁️ AWS EKS Best Practices
+
+Practical Kubernetes / AWS EKS study and operational work.
+
+→ https://github.com/Alphadavethedon/aws-eks-best-practices
+
+## 📊 Road Traffic Accidents — EDA
+
+Exploratory data analysis demonstrating data investigation, cleaning, analysis and visualization.
+
+→ https://github.com/Alphadavethedon/Road-Traffic-Accidents-EDA
+
+---
+
+# 🛠️ Engineering Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,bash,sql" alt="TypeScript JavaScript Python Go Bash SQL"/>
 </p>
 
+### Application Engineering
 
->  *"Relentless and unstoppable in vision."*  — **Davis Wabwile**
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Thanks+For+Visting+My+GitHub+Profile!;Crafting+Scalable+Systems+with+Precision;Innovating+with+Clean+Code+and+Best+Practices;Let's+Build+Something+Amazing+Together" alt="Typing SVG" />
-  </a>
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,vite" alt="Next.js React Node.js Express Tailwind Vite"/>
 </p>
 
-<!-- Add subtle divider with animation -->
+### Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible" alt="AWS Azure GCP Docker Kubernetes Terraform Ansible"/>
+</p>
+
+### Delivery & Platform
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,githubactions,jenkins,helm,argo,linux" alt="Git GitHub Actions Jenkins Helm Argo CD Linux"/>
+</p>
+
+### Data & Observability
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prometheus,grafana,elasticsearch" alt="PostgreSQL MongoDB MySQL Redis Prometheus Grafana Elasticsearch"/>
+</p>
+
+### AI & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="Python TensorFlow PyTorch"/>
+</p>
+
+**Automation:** n8n • Zapier • API integrations • workflow orchestration • AI-assisted operations
+
+---
+
+# 🏗️ Engineering Concerns
+
+| Concern | Engineering focus |
+|---|---|
+| Reliability | Failure handling, validation, recovery and operational visibility |
+| Security | Authentication, authorization, secrets, isolation and least privilege |
+| Scalability | Clear boundaries, modularity and deliberate system growth |
+| Automation | Repeatable workflows and reduced operational toil |
+| Observability | Logs, metrics, monitoring and actionable signals |
+| Delivery | Repeatable builds, tests and controlled deployments |
+| Maintainability | Clear code, documentation and architectural boundaries |
+| Data | Correct models, constraints, consistency and safe access |
+| Operations | Troubleshooting, incident analysis and root-cause thinking |
+
+---
+
+# 📐 Architecture Mindset
+
+```text
+Business Requirement
+        ↓
+Domain Model
+        ↓
+System Boundaries
+        ↓
+Data & State
+        ↓
+Security Model
+        ↓
+Infrastructure
+        ↓
+Deployment
+        ↓
+Observability
+```
+
+For larger projects I document decisions through architecture notes, ADRs, data models, deployment documentation, security considerations, roadmaps and known limitations.
+
+---
+
+# 🧪 Verification Mindset
+
+A feature is not automatically "done" because the UI renders.
+
+Where appropriate:
+
+```text
+Type Checking
+    +
+Linting
+    +
+Automated Tests
+    +
+Production Build
+    +
+Dependency / Security Checks
+    +
+Runtime Verification
+    +
+Operational Testing
+```
+
+I distinguish between:
+
+**Implemented • Verified • Partial • Planned • Blocked • Not Implemented**
+
+That keeps engineering documentation aligned with the actual state of the system.
+
+---
+
+# 📚 Technical Writing & Learning
+
+I use GitHub as both a portfolio and an engineering notebook for architecture, infrastructure, software engineering and continuous learning.
+
+- Software Engineering: https://github.com/Alphadavethedon/SE_Day1_Assignment
+- Technical Writing: https://github.com/Alphadavethedon/SE-DAY5-Technical-Writing
+- Azure Administrator Study Work: https://github.com/Alphadavethedon/AZ-104_Microsoft-Azure-Administrator-Associate
+- Andela Skills Workshops: https://github.com/Alphadavethedon/Andela-skills-workshops
+
+---
+
+# 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alphadavethedon&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics"/>
+  <img src="https://streak-stats.demolab.com?user=Alphadavethedon&theme=transparent&hide_border=true" height="170" alt="GitHub streak"/>
 </p>
 
 ---
 
-<!-- Footer Banner -->
+# 🤝 What I'm Interested In
+
+**Cloud & Platform Engineering • DevOps • Infrastructure Automation • Production Applications • AI Systems • Distributed Systems • Technical Operations • Reliability**
+
+I'm especially interested in engineering ownership that extends beyond implementation into **architecture, delivery, observability and operational reliability**.
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+  <a href="https://www.linkedin.com/in/davis-wabwile-53238221a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:davisswabwile@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://alphardit.com"><img src="https://img.shields.io/badge/Portfolio-alphardit.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Build systems. Understand them. Operate them. Improve them.</strong><br/>
+  <i>Engineering is not just writing code. It's taking responsibility for the system.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1F6FEB,100:0D1117&height=100&section=footer" alt="Footer"/>
 </p>
